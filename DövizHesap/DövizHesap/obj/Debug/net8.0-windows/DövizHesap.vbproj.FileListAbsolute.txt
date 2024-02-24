@@ -1,0 +1,16 @@
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\bin\Debug\net8.0-windows\DövizHesap.exe
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\bin\Debug\net8.0-windows\DövizHesap.deps.json
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\bin\Debug\net8.0-windows\DövizHesap.runtimeconfig.json
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\bin\Debug\net8.0-windows\DövizHesap.dll
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\bin\Debug\net8.0-windows\DövizHesap.pdb
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\DövizHesap.Form1.resources
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\DövizHesap.vbproj.GenerateResource.cache
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\DövizHesap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\DövizHesap.AssemblyInfoInputs.cache
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\DövizHesap.AssemblyInfo.vb
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\DövizHesap.vbproj.CoreCompileInputs.cache
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\DövizHesap.dll
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\refint\DövizHesap.dll
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\DövizHesap.pdb
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\DövizHesap.genruntimeconfig.cache
+C:\Users\SythnYSR\Desktop\Görsel Programlama Vize\DövizHesap\DövizHesap\obj\Debug\net8.0-windows\ref\DövizHesap.dll
